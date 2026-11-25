@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "PCB-LEDS") (type "KiCad") (uri "${KIPRJMOD}/PCB-LEDS.kicad_sym") (options "") (descr "Simbolos del proyecto PCB-LEDS"))
+)

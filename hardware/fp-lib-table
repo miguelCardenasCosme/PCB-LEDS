@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PCB-LEDS") (type "KiCad") (uri "${KIPRJMOD}/PCB-LEDS.pretty") (options "") (descr "Huellas del proyecto PCB-LEDS: LED KW DMLQ33.SG, conectores Phoenix SPT-SMD, logo AISLER"))
+)
